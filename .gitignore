@@ -1,0 +1,6 @@
+## ignore _junkyard/ directory
+_junkyard/
+
+## ignore credential files
+**/auth.ino
+**/auth.h
